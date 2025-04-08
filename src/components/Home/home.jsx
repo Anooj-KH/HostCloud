@@ -1,9 +1,9 @@
 import React from "react";
 import "./home.css";
-import logo from "/Education/React/host_cloud/src/assets/logo.png"
-import cardimg from '/Education/React/host_cloud/src/assets/cardimg.png'
+import logo from "./assets/logo.png"
+import cardimg from './assets/cardimg.png'
 import Navbar from "../Navbar/Navebar";
-import planimg from "/Education/React/host_cloud/src/assets/planimg.png"
+import planimg from "./assets/planimg.png"
 import Footer from "../Footer/Footer";
 
 export default function Home() {
